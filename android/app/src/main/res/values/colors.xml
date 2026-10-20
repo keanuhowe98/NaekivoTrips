@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#294B3D</color>
+    <color name="colorPrimaryDark">#203D31</color>
+    <color name="colorAccent">#EDA772</color>
+    <color name="naekivo_surface">#F7F8F5</color>
+</resources>
